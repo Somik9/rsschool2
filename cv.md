@@ -27,6 +27,8 @@ _like a SysAdmin and it was lomg time ago_
 * Valdilen Minin /JS
 * codecademy /HTML/CSS/PHP/JS
 * Simplelearn 
+* Udemy courses
+* Coursers
 * RS-School continuoun...
 
 ## Language:
