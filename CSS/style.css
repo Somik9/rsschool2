@@ -46,7 +46,7 @@ body {
     max-width: 1024px;
     margin: 0 auto;
     padding: 0 15px;
-    background-color: #c8c9ccc4;    
+    background-color: #c8c9ccc4;
 }
 
 /*хэдер блок*/
@@ -54,7 +54,6 @@ body {
     display: flex;
     justify-content: center;
     height: 50px;
-   
 }
 
 /*меню*/
@@ -92,7 +91,7 @@ body {
     padding-bottom: 15px;
     background: rgba(255, 255, 255, 0.2);
     border-radius: 3px;
-    border-right: 10px solid rgba(255, 255, 255);  
+    border-right: 10px solid rgba(255, 255, 255);
 }
 
 .profile {
@@ -132,14 +131,14 @@ body {
 }
 
 .section-title {
-    width: 100%;    
+    width: 100%;
     margin-bottom: 12px;
     font-weight: 400;
     font-size: 20px;
     line-height: 32px;
     text-align: center;
     text-transform: uppercase;
-    background-color: #ffffff;     
+    background-color: #ffffff;
 }
 
 .section-text {
@@ -189,7 +188,7 @@ body {
 
 .section {
     display: flex;
-    flex-direction: column;  
+    flex-direction: column;
 }
 
 .education-title,
@@ -238,7 +237,7 @@ body {
 .courses-section {
     display: flex;
     flex-direction: column;
-} 
+}
 
 .courses-section,
 .code-section,
@@ -286,7 +285,5 @@ body {
     width: 100px;
     height: 40px;
     background-image: url('../assets/svg/rs_school_js.svg');
-    background-repeat: no-repeat;   
+    background-repeat: no-repeat;
 }
-
-
